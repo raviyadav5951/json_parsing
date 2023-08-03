@@ -2,13 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+## Parsing JSON Array
 
-This project is a starting point for a Flutter application.
+This project will teach you to parse JSON from local json file and remote JSON (Rest API)
 
-A few resources to get you started if this is your first Flutter project:
+- Read Local JSON file from the assets
+- Read remote JSON from the REST API.
+- Parse the JSON into custom object class.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Plugin used to convert JSON string to model class(PODO)](https://marketplace.visualstudio.com/items?itemName=hirantha.json-to-dart)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
